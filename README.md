@@ -3,7 +3,7 @@
 
 <h3>Assessment Brief:</h3> 
 <p> 
-  Product QA Tester Exercise
+<h5>Product QA Tester Exercise</h5>
 Please create a Test Strategy along with a test suite for the Rezolve Experience Platform using the url
 below:
 https://create.rezolve.com/engagement-creation
@@ -13,14 +13,18 @@ https://help.rezolve.com/merchants/ssp/triggers/
 Please submit your exercise with a readme to detail how the test plan is structured.
 Thank you.
 </p>
+
 <h3>Assumptions:</h3> 
-  <ul>1 Test</ul>
-  <ul>2 Test</ul>
+ <ul>Test</ul>
+  <ul>Test</ul>
 <br>
+
 <h3>In- Scope:</h3>
-  <ul>Test</ul>
-  <ul>Test</ul>
+  <ul>1 Create Triggers (such as watermarked images and GeoZones</ul>
+  <ul>2 Create Target pages (such as Information Pages, and Instant Act Response Forms)</ul>
+  
 <br>
+
 <h3>Suggestions:</h3> 
   <ul>Test</ul>
   <ul>Test</ul>
