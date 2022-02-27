@@ -15,20 +15,22 @@ Thank you.
 </p>
 
 <h3>Assumptions:</h3> 
- <ul>1. Engagements are created using laptops and Mobile devices</ul>
- <ul>2. Creation of engagement is supported by Windows, Linux, IOS, Android and macOS</ul>
- <ul>3. Users need to be registered to access and create engagement on the platform</ul>
+ <li>Engagements are created using laptops and Mobile devices</li>
+ <li>Creation of engagement is supported by Windows, Linux, IOS, Android and macOS</li>
+ <li>Users need to be registered to access and create engagement on the platform</li>
 <br>
 
 <h3>In- Scope:</h3>
-  <ul>1. Create Triggers (such as watermarked images and GeoZones</ul>
-  <ul>2. Create Target pages (such as Information Pages, and Instant Act Response Forms)</ul>
-  <ol>3. Link Triggers and Target Pages together to create Engagements</ol>
-  <ul>4. Edit your Engagements</ul>
+<ul background color="blue">
+  <li>Create Triggers (such as watermarked images and GeoZones</li>
+  <li>Create Target pages (such as Information Pages, and Instant Act Response Forms)</li>
+  <li>Link Triggers and Target Pages together to create Engagements</li>
+  <li>Edit your Engagements</li>
+ </ul>
 <br>
 
 <h3>Suggestions:</h3> 
-  <ul>Test</ul>
+  <li>Test</li>
   <ul>Test</ul>
 <br>
 
