@@ -59,23 +59,30 @@ The test scripts generated at the back of your exploration can easily be convert
  <p>I recommend two experienced testers to pair on this for a fixed time of 
 at least 90mins without interruption. This applies to all subsequent test charters.</p>
  <br>
- <h4><ins>Test Charter 1 - Creating Engagement via location</ins></h4>
+ <h4><ins>Test Charter 1 - Creating Engagement via locationTrigger</ins></h4>
  <div>
  <ul>Given I am on the create engagment page</ul>
  <ul>When I click on location Trigger</ul>
  <ul>Then I should see a google map</ul>
  </div>
- <h5>.....................................................................................................................</h5>
+ <h5>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -  - - - - - - - - - - -- - -</h5>
  <div>
  <ul>Given I am on the google map</ul>
  <ul>When I search a location by postcode</ul>
  <ul>Then I should see the location on the map</ul>
  </div>
 <br>
-<h3>Test Suite 2 - Create Trigger by Image</h3>
-  <ul>1 Test</ul>
-  <ul>2 Test</ul>
+ 
+ <h4><ins>Test Charter 2 - Creating Engagement via Image Trigger</ins></h4>
+ <ul>Given I am on the create engagment page</ul>
+ <ul>When I click on location Trigger</ul>
+ <ul>Then I should see a google map</ul>
+ <h5>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -  - - - - - - - - - - -- - -</h5>
+ <ul>Given I am on the google map</ul>
+ <ul>When I search a location by postcode</ul>
+ <ul>Then I should see the location on the map</ul>
 <br>
+ 
 <h3>Test Suite 3 - Create Trigger by Audio</h3>
   <ul>1 Test</ul>
   <ul>2 Test</ul>
