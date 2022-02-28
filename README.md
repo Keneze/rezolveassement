@@ -14,7 +14,7 @@ Please submit your exercise with a readme to detail how the test plan is structu
 Thank you.
 </p>
 
-<h3>About Rezolve Platform and The Test Strategy Adopted:</h3>
+<h3><ins>About Rezolve Platform and The Test Strategy Adopted:</ins></h3>
 <p>
 We were behind the world’s first online information platform, and the world’s first cloud e-commerce platform.  Now Rezolve brings you the first instant mobile engagement platform. We’re taking retailing into a new era of customer engagement, instant payments and endless possibilities.
  
@@ -59,7 +59,7 @@ The test scripts generated at the back of your exploration can easily be convert
  <p>I recommend two experienced testers to pair on this for a fixed time of 
 at least 90mins without interruption. This applies to all subsequent test charters.</p>
  <br>
- <h4>Test Charter 1 - Creating Engagement via location</h4>
+ <h4><ins>Test Charter 1 - Creating Engagement via location</ins></h4>
  <div>
  <ul>Given I am on the create engagment page</ul>
  <ul>When I click on location Trigger</ul>
