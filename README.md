@@ -60,10 +60,17 @@ The test scripts generated at the back of your exploration can easily be convert
 at least 90mins without interruption. This applies to all subsequent test charters.</p>
  <br>
  <h4>Test Charter 1 - Creating Engagement via location</h4>
- 
+ <div>
  <ul>Given I am on the create engagment page</ul>
  <ul>When I click on location Trigger</ul>
  <ul>Then I should see a google map</ul>
+ </div>
+ <h5>.....................................................................................................................</h5>
+ <div>
+ <ul>Given I am on the google map</ul>
+ <ul>When I search a location by postcode</ul>
+ <ul>Then I should see the location on the map</ul>
+ </div>
 <br>
 <h3>Test Suite 2 - Create Trigger by Image</h3>
   <ul>1 Test</ul>
