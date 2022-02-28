@@ -52,9 +52,18 @@ The test scripts generated at the back of your exploration can easily be convert
   <li>Payment integration will not included</li>
  </div>
 <br>
-<h3>Test Suite 1 - Create Trigger by Location</h3>
-  <ul>1 Test</ul>
-  <ul>2 Test</ul>
+
+<h3>Test Charters:</h3>
+
+<h4>Instrsution(s):</h4) <br>
+ <p>I recommend two experienced testers to pair on this for a fixed time of 
+at least 90mins without interruption. This applies to all subsequent test charters.</p>
+ <br>
+ <h4>Test Charter 1 - Creating Engagement via location</h4>
+ 
+ <ul>Given I am on the create engagment page</ul>
+ <ul>When I click on location Trigger</ul>
+ <ul>Then I should see a google map</ul>
 <br>
 <h3>Test Suite 2 - Create Trigger by Image</h3>
   <ul>1 Test</ul>
