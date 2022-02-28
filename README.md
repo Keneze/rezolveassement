@@ -41,18 +41,16 @@ design tests, and execution them on the fly.
  </ul>
 <br>
 <h3>Tools:</h3>
-TESTPAD - This tool has the necessary functinalities required for documentating your test. It will allow you to create test charters, 
+<li>TESTPAD - This tool has the necessary functinalities required for documentating your test. It will allow you to create test charters, 
 and easily structure your tests in folders as you explore the application. The tool has a very good dashboard with test results and reports a click away.
-The test scripts generated at the back of your exploration can easily be converted to regression/automation test suite.
+The test scripts generated at the back of your exploration can easily be converted to regression/automation test suite.</li>
+<li>Pen and Paper to write down test ideas as they come to mind</li>
 <br>
-<h3>Suggestions:</h3> 
-  <li>Test</li>
-  <ul>Test</ul>
-<br>
-
 <h3>Out-of-Scope:</h3> 
-  <ul>Test</ul>
-  <ul>Test</ul>
+ <div>
+  <li>Extensive coverage of entire Rezolve Experience Platform (This strategy document remains a living document and will continue to be update as new information is learned)</li>
+  <li>Payment integration will not included</li>
+ </div>
 <br>
 <h3>Test Suite 1 - Create Trigger by Location</h3>
   <ul>1 Test</ul>
