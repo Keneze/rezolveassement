@@ -14,6 +14,17 @@ Please submit your exercise with a readme to detail how the test plan is structu
 Thank you.
 </p>
 
+<h3>About Rezolve Platform and The Test Strategy Adopted:</h3>
+<p>
+We were behind the world’s first online information platform, and the world’s first cloud e-commerce platform.  Now Rezolve brings you the first instant mobile engagement platform. We’re taking retailing into a new era of customer engagement, instant payments and endless possibilities.
+ 
+For the purpose of this technical assessment and possibly the best approach, we have adopted Exploratory testing as opposed to scripted testing.
+ 
+The adoption of exploratory test strategy was based on the fact that the testers that will carry out the testing, 
+specifically myself, have limited knowledge of the application under test. The goal will be to simultaneously learn, 
+design tests, and execution them on the fly.
+</P>
+
 <h3>Assumptions:</h3> 
  <li>Engagements are created using laptops and Mobile devices</li>
  <li>Creation of engagement is supported by Windows, Linux, IOS, Android and macOS</li>
@@ -21,14 +32,19 @@ Thank you.
 <br>
 
 <h3>In- Scope:</h3>
-<ul background color="blue">
+<h4>For the purpose of this assessment, the testing would be focused on Triggers and the following test scenarios would be covered</h4>
+<ul>
   <li>Create Triggers (such as watermarked images and GeoZones</li>
   <li>Create Target pages (such as Information Pages, and Instant Act Response Forms)</li>
   <li>Link Triggers and Target Pages together to create Engagements</li>
   <li>Edit your Engagements</li>
  </ul>
 <br>
-
+<h3>Tools:</h3>
+TESTPAD - This tool has the necessary functinalities required for documentating your test. It will allow you to create test charters, 
+and easily structure your tests in folders as you explore the application. The tool has a very good dashboard with test results and reports a click away.
+The test scripts generated at the back of your exploration can easily be converted to regression/automation test suite.
+<br>
 <h3>Suggestions:</h3> 
   <li>Test</li>
   <ul>Test</ul>
