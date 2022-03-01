@@ -25,8 +25,9 @@ specifically myself, have limited knowledge of the application under test. The g
 design tests, and execution them on the fly.
 </P>
 
-<h3>Assumptions:</h3> 
- <li>Engagements are created using laptops and Mobile devices</li>
+<h3><ins>Entry Critera and Assumptions:</ins></h3> 
+ <li>Rezolve platform is stable and in a testable state</li>
+ <li>Engagements can be created on desktops, laptops, and Mobile devices</li>
  <li>Creation of engagement is supported by Windows, Linux, IOS, Android and macOS</li>
  <li>Users need to be registered to access and create engagement on the platform</li>
 <br>
