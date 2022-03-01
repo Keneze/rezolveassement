@@ -115,20 +115,15 @@ at least 90mins without interruption. This applies to all subsequent test charte
  <li>enter your payment details</li>
  <li>click 'Pay' to activate your engagement</li>
   
- <br>
+
 
  <h4><ins>Test Charter 2 - Creating Engagement via Image Trigger</ins></h4>
 
  
-<h3>Test Suite 3 - Create Trigger by Audio</h3>
-  <ul>1 Test</ul>
-  <ul>2 Test</ul>
-<br>
-<h3>Test Suite 4 - Create Trigger by Beacon</h3>
- <ul>1 Test</ul>
-  <ul>2 Test</ul>
-<br>
-<h3>Test Suite 5 - Create Trigger by Link</h3> 
- <ul>1 Test</ul>
-  <ul>2 Test</ul>
-<br>
+ <h4><ins>Test Charter 3 - Creating Engagement via Audio Trigger</ins></h4>
+ 
+
+ <h4><ins>Test Charter 4 - Creating Engagement via Beacon Trigger</ins></h4>
+
+ <h4><ins>Test Charter 5 - Creating Engagement via Link Trigger</ins></h4>
+
