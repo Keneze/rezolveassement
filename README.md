@@ -40,6 +40,7 @@ design tests, and execution them on the fly.
   <li>Link Triggers and Target Pages together to create Engagements</li>
   <li>Edit your Engagements</li>
   <li>Cancel your Engagements</li>
+  <li>Duplicate and edit your Engagements</li>
  </ul>
 <br>
 <h3>Tools:</h3>
@@ -55,43 +56,69 @@ The test scripts generated at the back of your exploration can easily be convert
  </div>
 <br>
 
+<h3>Test Data:</h3>
+ <li>your Geozone(s)</li>
+ <li></li>
+
 <h3>Test Charters:</h3>
 
 <h4>Instrsution(s):</h4) <br>
  <p>I recommend two experienced testers to pair on this for a fixed time of 
 at least 90mins without interruption. This applies to all subsequent test charters.</p>
  <br>
- <h4><ins>Test Charter 1 - Creating Engagement via location Trigger(Geozones)</ins></h4>
+ <h4><ins>Test Charter 1 - Creating Engagement via location Trigger(GeoZones)</ins></h4>
+ <h5>Choose a Trigger</h5>
  <div>
  <li>Sign in(or sign up, if not registered) to SSP</li>
  <li>Choose location trigger(Geozones)</li>
  <li>Define the area of your Geozone using the map displayed</li>
- <li>Click on the map to create your Geozone</li>
- <li>Click on the map to create your Geozone</li>
+ <li>Click on the map to create your GeoZone</li>
+ <li>Click on the edge of your GeoZone to increase or reduce the area</li>
+ <li>Move the red circle to change the loctaion on the map</li>
+ <li>Click on the pin to remove the GeoZone selected</li>
+  <li>when satisfied with your GeoZone selection and the area you want to cover, choose a Target Page to continue</li>
+ <li>Hover over the area you selected to see the size in Radius and Area, Measured in square metre(m^2)</li>
+ <li>Visual check at the bottom right, you should see Guidline Cost Per Day, in pounds for UK users</li> 
  </div>
- <br>
- <div>
- <ul>Given I am on the create engagment page</ul>
- <ul>When I click on location Trigger</ul>
- <ul>Then I should see a google map</ul>
- </div>
- <h5>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -  - - - - - - - - - - -- - -</h5>
- <div>
- <ul>Given I am on the google map</ul>
- <ul>When I search a location by postcode</ul>
- <ul>Then I should see the location on the map</ul>
- </div>
-<br>
  
+ <h5>Choose a Target Page(information)</h5>
+ <div>
+ <li>While on the target page, you should see 4 types of Targets -information, Act, Buy & Url</li>
+ <li>Select information to tell users about your engagement</li>
+ <li>Enter title for your target</li>
+ <li>Enter subtitile</li>
+ <li>Notice that as you enter information, the Notification Preview on the right side of the page is automatically populated as well</li>
+ <li>Customers will see these information when they enter your GeoZone</li>
+ </div>
+ <div>
+ <h6>Drag and drop items from the left to build your information target</h6>
+ <li>For image, enter name of image you want to upload</li>
+ <li>Click on the pin to remove the GeoZone selected</li>
+ <li>click upload button to upload image from your computer or mobile</li>
+ <li>Add header and other information you wish to display</li>
+ <li>When you are happy with what you want to show to your customers, click configure GeoZone to configure your GeoZone duration</li>
+ </div>
+ <h5>Configure GeoZone</h5>
+ <li>On the Target Users drop-down, select the category user you want to target</li>
+ <li>set your campaign duration</li>
+ <li>Set a custom time or select All day duration which your campaign should be active</li>
+ <li>set when you want the Trigger Notification, that whether you want users to be notified immediately they enter your GeoZone or on Exit</li>
+ <li>If you selected the trigger Nofication to kick in after users have dwell in your GeoZone for a while, set the time</li>
+ <li>Click confirm and Publish once you are happy with your GeoZone configuration</li>
+ 
+ <h5>Confirm and Publish</h5>
+ <li>Enter the name of your engagement</li>
+ <li>Check that all the details of your engagement is correct and displayed correctly</li>
+ <li>When you are happy, click create engagement</li>
+ 
+ <h5>Make Payment</h5>
+ <li>enter your payment details</li>
+ <li>click 'Pay' to activate your engagement</li>
+  
+ <br>
+
  <h4><ins>Test Charter 2 - Creating Engagement via Image Trigger</ins></h4>
- <ul>Given I am on the create engagment page</ul>
- <ul>When I click on location Trigger</ul>
- <ul>Then I should see a google map</ul>
- <h5>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -  - - - - - - - - - - -- - -</h5>
- <ul>Given I am on the google map</ul>
- <ul>When I search a location by postcode</ul>
- <ul>Then I should see the location on the map</ul>
-<br>
+
  
 <h3>Test Suite 3 - Create Trigger by Audio</h3>
   <ul>1 Test</ul>
