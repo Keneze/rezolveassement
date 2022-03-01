@@ -57,7 +57,7 @@ The test scripts generated at the back of your exploration can easily be convert
 <br>
 
 <h3>Test Data:</h3>
- <li>your GeoZone(s)</li>
+ <li>Your GeoZone(s)</li>
  <li></li>
 
 <h3>Test Charters:</h3>
