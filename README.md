@@ -1,4 +1,3 @@
-# Rezolve_Tech_Assessment
 # Rezolve Exploratory Test Strategy Document(Technical Assessment)
 
 
