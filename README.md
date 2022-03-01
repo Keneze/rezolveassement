@@ -64,8 +64,10 @@ at least 90mins without interruption. This applies to all subsequent test charte
  <h4><ins>Test Charter 1 - Creating Engagement via location Trigger(Geozones)</ins></h4>
  <div>
  <li>Sign in(or sign up, if not registered) to SSP</li>
- <li>Choose location trigger</li>
- <ul>Then I should see a google map</ul>
+ <li>Choose location trigger(Geozones)</li>
+ <li>Define the area of your Geozone using the map displayed</li>
+ <li>Click on the map to create your Geozone</li>
+ <li>Click on the map to create your Geozone</li>
  </div>
  <br>
  <div>
