@@ -40,6 +40,7 @@ design tests, and execution them on the fly.
   <li>Edit your Engagements</li>
   <li>Delete your Engagements</li>
   <li>Duplicate and edit your Engagements</li>
+  <li>Dashboard</li>
  </ul>
 <br>
 <h3>Tools:</h3>
