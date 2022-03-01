@@ -1,7 +1,7 @@
 # Rezolve_Tech_Assessment
-<h1>Rezolve Exploratory Test Strategy Document(Technical Assessment)</h1>
+# Rezolve Exploratory Test Strategy Document(Technical Assessment)
 
-<h3>Assessment Brief:</h3> 
+### Assessment Brief:
 <p> 
 <h5>Product QA Tester Exercise</h5>
 Please create a Test Strategy along with a test suite for the Rezolve Experience Platform using the url
@@ -82,22 +82,22 @@ at least 90mins without interruption. This applies to all subsequent test charte
  </div>
  
  <h5>Choose a Target Page(information)</h5>
- <div>
+ <h6>(Other Target pages, such as Act, Buy and Url will be tested with a different engagement. You can also edit your existing engagement and change the target to Act, or Buy or Url.)</h6>
  <li>While on the target page, you should see 4 types of Targets -information, Act, Buy & Url</li>
  <li>Select information to tell users about your engagement</li>
  <li>Enter title for your target</li>
  <li>Enter subtitile</li>
  <li>Notice that as you enter information, the Notification Preview on the right side of the page is automatically populated as well</li>
  <li>Customers will see these information when they enter your GeoZone</li>
- </div>
- <div>
- <h6>Drag and drop items from the left to build your information target</h6>
+ 
+ 
+ <h5>Drag and drop items from the left to build your information target</h5>
  <li>For image, enter name of image you want to upload</li>
  <li>Click on the pin to remove the GeoZone selected</li>
  <li>click upload button to upload image from your computer or mobile</li>
  <li>Add header and other information you wish to display</li>
  <li>When you are happy with what you want to show to your customers, click configure GeoZone to configure your GeoZone duration</li>
- </div>
+
  <h5>Configure GeoZone</h5>
  <li>On the Target Users drop-down, select the category user you want to target</li>
  <li>set your campaign duration</li>
