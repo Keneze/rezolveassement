@@ -1,4 +1,4 @@
-# rezolveassement
+# Rezolve_Tech_Assessment
 <h1>Rezolve Exploratory Test Strategy Document(Technical Assessment)</h1>
 
 <h3>Assessment Brief:</h3> 
@@ -39,6 +39,7 @@ design tests, and execution them on the fly.
   <li>Create Target pages (such as Information Pages, and Instant Act Response Forms)</li>
   <li>Link Triggers and Target Pages together to create Engagements</li>
   <li>Edit your Engagements</li>
+  <li>Cancel your Engagements</li>
  </ul>
 <br>
 <h3>Tools:</h3>
@@ -60,7 +61,13 @@ The test scripts generated at the back of your exploration can easily be convert
  <p>I recommend two experienced testers to pair on this for a fixed time of 
 at least 90mins without interruption. This applies to all subsequent test charters.</p>
  <br>
- <h4><ins>Test Charter 1 - Creating Engagement via locationTrigger</ins></h4>
+ <h4><ins>Test Charter 1 - Creating Engagement via location Trigger(Geozones)</ins></h4>
+ <div>
+ <li>Sign in(or sign up, if not registered) to SSP</li>
+ <li>Choose location trigger</li>
+ <ul>Then I should see a google map</ul>
+ </div>
+ <br>
  <div>
  <ul>Given I am on the create engagment page</ul>
  <ul>When I click on location Trigger</ul>
