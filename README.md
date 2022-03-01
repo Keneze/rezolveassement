@@ -125,6 +125,22 @@ at least 90mins without interruption. This applies to all subsequent test charte
  <li>Click on Advanced options drop-down at the bottom to set Watermark Strength</li>
  <li>Watermark Strength of 5 is recommended to make your watermark easily scanable</li>
  <li>select choose a Target Page once you are happy with your uploaded image</li>
+ 
+ <h5>Choose a Target Page(information)</h5>
+
+ <li>Choose a saved target page</li>
+ <li>Search for Saved Target page if you target of interest is not on the first page</li>
+ <li>Click confirm and publish to continue</li>
+ <li>Click back button to change your target if required</li>
+
+ <h5>Confirm and Publish</h5>
+ <li>Enter the name of your engagement</li>
+ <li>Check that all the details of your engagement is correct and displayed correctly</li>
+ <li>When you are happy, click create engagement</li>
+ 
+ <h5>Make Payment</h5>
+ <li>enter your payment details</li>
+ <li>click 'Pay' to activate your engagement</li>
 
  
  <h4><ins>Test Charter 3 - Creating Engagement via Audio Trigger</ins></h4>
