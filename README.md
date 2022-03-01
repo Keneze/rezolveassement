@@ -1,7 +1,7 @@
 # Rezolve Exploratory Test Strategy Document(Technical Assessment)
 
 
-<h5>Product QA Tester Exercise</h5>
+<h5>Product QA Tester Exercise Brief</h5>
 Please create a Test Strategy along with a test suite for the Rezolve Experience Platform using the url
 below:
 https://create.rezolve.com/engagement-creation
