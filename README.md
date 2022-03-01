@@ -118,7 +118,6 @@ at least 90mins without interruption. This applies to all subsequent test charte
 
 
  <h4><ins>Test Charter 2 - Creating Engagement via Image Trigger</ins></h4>
-
  
  <h4><ins>Test Charter 3 - Creating Engagement via Audio Trigger</ins></h4>
  
