@@ -1,8 +1,7 @@
 # Rezolve_Tech_Assessment
 # Rezolve Exploratory Test Strategy Document(Technical Assessment)
 
-### Assessment Brief:
-<p> 
+
 <h5>Product QA Tester Exercise</h5>
 Please create a Test Strategy along with a test suite for the Rezolve Experience Platform using the url
 below:
@@ -12,7 +11,7 @@ Please create a test suite for the ‘Triggers’ section of the Platform. An on
 https://help.rezolve.com/merchants/ssp/triggers/
 Please submit your exercise with a readme to detail how the test plan is structured.
 Thank you.
-</p>
+
 
 <h3><ins>About Rezolve Platform and The Test Strategy Adopted:</ins></h3>
 <p>
@@ -115,9 +114,18 @@ at least 90mins without interruption. This applies to all subsequent test charte
  <li>enter your payment details</li>
  <li>click 'Pay' to activate your engagement</li>
   
-
-
  <h4><ins>Test Charter 2 - Creating Engagement via Image Trigger</ins></h4>
+ <h5>Choose a Trigger</h5>
+ <li>Sign in(or sign up, if not registered) to SSP</li>
+ <li>Choose Image trigger</li>
+ <li>Drag and drop or browse for image on your computer to upload</li>
+ <li>Image size must not be more than 150 MB</li>
+ <li>Check that Image format is either *.jpg or *.tif</li>
+ <li>Hover over information(i) icon next to Upload an image label to see how watermarked images work with Rezolve enabled devices</li>
+ <li>Click on Advanced options drop-down at the bottom to set Watermark Strength</li>
+ <li>Watermark Strength of 5 is recommended to make your watermark easily scanable</li>
+ <li>select choose a Target Page once you are happy with your uploaded image</li>
+
  
  <h4><ins>Test Charter 3 - Creating Engagement via Audio Trigger</ins></h4>
  
