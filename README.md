@@ -39,7 +39,7 @@ design tests, and execution them on the fly.
   <li>Create Target pages (such as Information Pages, and Instant Act Response Forms)</li>
   <li>Link Triggers and Target Pages together to create Engagements</li>
   <li>Edit your Engagements</li>
-  <li>Cancel your Engagements</li>
+  <li>Delete your Engagements</li>
   <li>Duplicate and edit your Engagements</li>
  </ul>
 <br>
