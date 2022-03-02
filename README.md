@@ -50,7 +50,7 @@ The test scripts generated at the back of your exploration can easily be convert
 <br>
 <h3>Out-of-Scope:</h3> 
  <div>
-  <li>Extensive coverage of entire Rezolve Experience Platform (This strategy document remains a living document and will continue to be update as new information is learned)</li>
+  <li>Extensive coverage of entire Rezolve Experience Platform (This strategy document remains a living document and will continue to be updated as new information is learned)</li>
   <li>Payment integration will not included</li>
  </div>
 <br>
