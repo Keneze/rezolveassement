@@ -145,6 +145,18 @@ at least 90mins without interruption. This applies to all subsequent test charte
  
  <h4><ins>Test Charter 3 - Creating Engagement via Audio Trigger</ins></h4>
  
+ <h5>Choose a Trigger</h5>
+ <li>Sign in(or sign up, if not registered) to SSP</li>
+ <li>Choose Audio trigger</li>
+ <li>Drag and drop or browse for Audio files on your computer to upload</li>
+ <li>Audio size must not be more than 150 MB</li>
+ <li>Check that Audio format is either *.mp3, *.wav or or *.m4a</li>
+ <li>Check validation error when incorrect Audio format or size is uploaded</li>
+ <li>Hover over information(i) icon next to Upload an audio label to see how watermarked audio work with Rezolve enabled devices</li>
+ <li>Click on Advanced options drop-down at the bottom to set Watermark Strength</li>
+ <li>Watermark Strength of 5 is recommended to make your watermark easily scanable</li>
+ <li>select choose a Target Page once you are happy with your uploaded image</li>
+ 
 
  <h4><ins>Test Charter 4 - Creating Engagement via Beacon Trigger</ins></h4>
 
