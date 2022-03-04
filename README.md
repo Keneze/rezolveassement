@@ -155,7 +155,7 @@ at least 90mins without interruption. This applies to all subsequent test charte
  <li>Hover over information(i) icon next to Upload an audio label to see how watermarked audio work with Rezolve enabled devices</li>
  <li>Click on Advanced options drop-down at the bottom to set Watermark Strength</li>
  <li>Watermark Strength of 5 is recommended to make your watermark easily scanable</li>
- <li>select choose a Target Page once you are happy with your uploaded image</li>
+ <li>select choose a Target Page once you are happy with your uploaded audio file</li>
  
 
  <h4><ins>Test Charter 4 - Creating Engagement via Beacon Trigger</ins></h4>
